@@ -1,0 +1,15 @@
+{
+  "name": "awsbluebird",
+  "homepage": "https://github.com/agustinplaza/bluebird.git",
+  "authors": [
+    "agustinplaza <apa@googling.barcelona>"
+  ],
+  "description": "bluebird js",
+  "main": "lib/bluebird.min.js",
+  "keywords": [
+    "blue",
+    "bird",
+    "js"
+  ],
+  "license": "MIT"
+}
